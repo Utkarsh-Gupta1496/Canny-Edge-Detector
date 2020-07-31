@@ -100,7 +100,7 @@ def canny(low,high):
     f=cv2.imread('Lanes.jpg',0)
     plot(f,d)
     
-img=cv2.imread('Lanes.jpg',0)
+img=cv2.imread('.images/Lanes.jpg',0)
 img=np.asarray(img,np.float64)   
 g=gaussian_kernel(5,1)
 img=ndimage.convolve(img, g)
