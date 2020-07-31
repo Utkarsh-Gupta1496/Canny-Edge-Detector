@@ -6,8 +6,8 @@ This Repository contains implementation of **Canny Edge Detector** in Numpy from
 
 **Sample Output 2 : **
 
-![](/images/output1.png)
+![](/images/output1.PNG)
 
 **Sample Output 3 : **
 
-![](/images/outpu2.png)
+![](/images/outpu3.PNG)
