@@ -1,4 +1,4 @@
-This Repository contains implementation of **Canny Edge Detector** in Numpy from scratch with a iteractive GUI implementation in python.
+This Repository contains implementation of **Canny Edge Detector** in Numpy from scratch with a intractive GUI implementation in python.
 
 **Sample Output 1 :**
 
